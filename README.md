@@ -1,5 +1,7 @@
 # GetMaterialInfo
 Autodesk Fusion 360 script to get material and appearance information of the selected object.
+
+# Function
 You can get "material ID" and "appearance ID", which are normally troublesome to access.
 ![f1](https://user-images.githubusercontent.com/30950088/204098100-1ee9f3c4-2161-4a3c-8c15-f5a1344c270a.png)
 
