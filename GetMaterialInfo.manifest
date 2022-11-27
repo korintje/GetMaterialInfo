@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"korintje",
+	"description":	{
+		"":	"Get the appearance id of the selected object"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
